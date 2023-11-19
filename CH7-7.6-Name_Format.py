@@ -6,7 +6,7 @@
 # and outputs the person's name in the following format:
 # lastName, firstInitial.middleInitial.
 
-# User input
+# User inputs
 
 name = input('')
 
